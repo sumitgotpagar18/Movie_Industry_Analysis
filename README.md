@@ -26,5 +26,3 @@ This project provides an in-depth analysis of the movie industry, covering ratin
   
 # Dataset
 The dataset used in this analysis includes movie ratings, revenue, budgets, and streaming platform data.
-
-# How to Use
